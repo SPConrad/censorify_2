@@ -1,0 +1,11 @@
+{
+    "author": "Sean Conrad",
+    "name": "censorify-sean_conrad_2",
+    "version": "0.1.1",
+    "description": "Censor words out of text",
+    "main": "censortext",
+    "dependencies": {},
+    "engines":{
+        "node": "*"
+    }
+}
